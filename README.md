@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Devesh Chaturvedi</h1>
 <h3 align="center">A passionate Innovative Software Developer Crafting Scalable Solutions and Passionate about Clean Code & Agile Development & New Technologies in the market.</h3>
-<img align="rght" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/excited-man-working-using-laptop_112255-1694.jpg?w=740">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/excited-man-working-using-laptop_112255-1694.jpg?w=740">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshch710&label=Profile%20views&color=0e75b6&style=flat" alt="deveshch710" /> </p>
 
